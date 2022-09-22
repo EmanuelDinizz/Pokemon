@@ -8,9 +8,11 @@
 
 Este projeto foi realizado trabalhando com HTML, CSS e usando JavaScript para fazer consultas online.
 
+Primeiro Projeto utilizando um API.
+
 Lembrando: e Git e GitHub para upar.
 
-[Clique aqui para acessar](https://emanueldinizz.github.io/Nav_Bar)
+[Clique aqui para acessar](https://emanueldinizz/github.io/Pokemon_Search)
 
 ## 🖥️ Tecnologias
 
