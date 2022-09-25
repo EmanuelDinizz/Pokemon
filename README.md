@@ -12,7 +12,7 @@ Primeiro Projeto utilizando um API.
 
 Lembrando: e Git e GitHub para upar.
 
-[Clique aqui para acessar](https://emanueldinizz/github.io/Pokemon_Search)
+[Clique aqui para acessar](https://emanueldinizz.github.io/Pokemon_Search/)
 
 ## 🖥️ Tecnologias
 
